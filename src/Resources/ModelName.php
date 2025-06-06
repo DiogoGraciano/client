@@ -23,11 +23,13 @@ class ModelName
     public const GEMINI_1_5_FLASH_001 = 'gemini-1.5-flash-001';
     public const GEMINI_1_5_FLASH_002 = 'gemini-1.5-flash-002';
     public const GEMINI_1_5_FLASH_LATEST = 'gemini-1.5-flash-latest';
-
+    public const GEMINI_2_0_FLASH = 'gemini-2.0-flash';
+    
     // Optimized for: High volume and lower intelligence tasks
     public const GEMINI_1_5_FLASH_8B = 'gemini-1.5-flash-8b';
     public const GEMINI_1_5_FLASH_8B_001 = 'gemini-1.5-flash-8b-001';
     public const GEMINI_1_5_FLASH_8B_LATEST = 'gemini-1.5-flash-8b-latest';
+    public const GEMINI_2_0_FLASH_LITE = 'gemini-2.0-flash-lite';
 
     // Optimized for: Measuring the relatedness of text strings
     public const TEXT_EMBEDDING_004 = 'text-embedding-004';
